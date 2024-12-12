@@ -1,3 +1,3 @@
-import chalk from 'chalk'; // Änderung hier
+import chalk from 'chalk'; // Dies ist eine Änderung
 
 console.log(chalk.blue('It works'));
