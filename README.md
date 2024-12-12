@@ -1,1 +1,1 @@
-# pruefung_m324_jonas_kaufmann
+# Prüfung M324
